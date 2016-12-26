@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+.customDiv{
+	padding: 5px;
+	margin: 5px;
+	min-height: 300px;
+	background-color: #e4e4e4;
+	text-align: center;
+	font-size: large;
+}
+.customDiv2{
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	min-height: 450px;
+	background-color: #f5f5f5;
+	font-size: medium;
+	border-top: 30px;
+}
+.customDiv3{
+	padding: 5px;
+	margin: 10px;
+	min-height: 300px;
+	background-color: #f5f5f5;
+	font-size: small;
+	border-top: 30px;
+}
+.customDiv4{
+	padding: 15px;
+	margin: 10px;
+	margin-top:10px;
+	min-height: 100px;
+	background-color: #ffffff;
+	font-size: small;
+	border-top: 30px;
+}
